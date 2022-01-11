@@ -1,24 +1,5 @@
-# todoapp
+## todoapp
 
-## Project setup
-```
-npm install
-```
+Todo App in Vuetify. 
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+https://codingshiksha.com/vue/how-to-make-a-todo-crud-app-in-vue-js-full-tutorial-for-beginners-2020/
